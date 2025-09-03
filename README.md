@@ -16,7 +16,7 @@ This project is my first Java-based Ticket Booking System, designed to strengthe
 
 📦 Setup & Run
 Step 1: Clone the Repository
-git clone https://github.com/Sameer07x19/TicketBookingSystem.git
+git clone 
 cd TicketBookingSystem
 Step 2: Build the Project
 ./gradlew build
